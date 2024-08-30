@@ -1,16 +1,14 @@
 ---
-title: Untitled Page
-description: 
+title: Home
+description: GitHubとの連携テスト
 published: true
-date: 2024-08-29T09:30:41.667Z
+date: 2024-08-30T07:32:56.494Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-29T09:30:41.667Z
+dateCreated: 2024-08-30T07:32:56.494Z
 ---
-
-<link href="/css/custom.css" rel="stylesheet"/>
 
 # Header
 Your content here
 
-## Header2
+<span class="red">赤字</span>のスタイルです。
