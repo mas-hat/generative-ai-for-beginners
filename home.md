@@ -8,6 +8,8 @@ editor: markdown
 dateCreated: 2024-08-29T09:30:41.667Z
 ---
 
+<link href="/css/custom.css" rel="stylesheet"/>
+
 # Header
 Your content here
 
